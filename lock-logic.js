@@ -29,7 +29,7 @@ function changeDialValue (index, incrementBy) {
 	  }
   }
   if (equaler) {
-	redirect('daniel-detchev');	
+	redirect('index.html');	
   }
   // When the lock is set to match the secretCombo
   // call the redirect() function with your name
